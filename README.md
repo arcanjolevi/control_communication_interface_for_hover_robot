@@ -19,7 +19,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/arcanjolevi/control_communication_interface_for_hover_robot">
   
-  <a href="https://github.com/Lucas-Garavaglia/Touring/commits/master">
+  <a href="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/arcanjolevi/control_communication_interface_for_hover_robot">
   </a>
 
