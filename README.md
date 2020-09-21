@@ -23,7 +23,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/arcanjolevi/control_communication_interface_for_hover_robot">
   </a>
 
-  <a href="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/">
+  <a href="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/arcanjolevi/control_communication_interface_for_hover_robot">
   </a>
 </p>
