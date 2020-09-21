@@ -15,16 +15,16 @@
 </h5>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arcanjolevi/control_communication_interface_for_hover_robot/">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arcanjolevi/control_communication_interface_for_hover_robot">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/arcanjolevi/control_communication_interface_for_hover_robot/">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/arcanjolevi/control_communication_interface_for_hover_robot">
   
   <a href="https://github.com/Lucas-Garavaglia/Touring/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/arcanjolevi/control_communication_interface_for_hover_robot/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/arcanjolevi/control_communication_interface_for_hover_robot">
   </a>
 
   <a href="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/arcanjolevi/control_communication_interface_for_hover_robot/">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/arcanjolevi/control_communication_interface_for_hover_robot">
   </a>
 </p>
 
