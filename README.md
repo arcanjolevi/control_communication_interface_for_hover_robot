@@ -1,10 +1,8 @@
 # Control Communication Interface for Hover Robot
 
 <h1 align="center">
-    <img alt="CCL" title="logo" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/CCL.png" width="400px" />
+    <img alt="CCL" title="logo" src="https://github.com/arcanjolevi/robot_control_interface/blob/master/schemas/ezgif.com-video-to-gif.gif" width="700px" />
 </h1>
-
-![CCL](https://github.com/arcanjolevi/robot_control_interface/blob/master/schemas/ezgif.com-video-to-gif.gif)
 
 
 <h4 align="center">
