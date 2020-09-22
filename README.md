@@ -1,7 +1,7 @@
 # Control Communication Interface for Hover Robot
 
 <h1 align="center">
-    <img alt="CCL" title="logo" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/CCL.png" width="500px" />
+    <img alt="CCL" title="logo" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/CCL.png" width="400px" />
 </h1>
 
 
@@ -32,15 +32,14 @@
 https://github.com/CaioslppUO/Agrobot-2.0
 
 
-<p align="center">
-  <img alt="ccl" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/WhatsApp%20Image%202020-09-21%20at%2016.06.37%20(1).jpeg" width="20%">
-  <img alt="ccl" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/WhatsApp%20Image%202020-09-21%20at%2016.06.37%20(2).jpeg" width="20%">
-  <img alt="ccl" src="https://github.com/arcanjolevi/control_communication_interface_for_hover_robot/blob/master/schemas/WhatsApp%20Image%202020-09-21%20at%2016.06.37.jpeg" width="20%">
-  
-</p>
-
 
 ## Use instructions
+
+### ❯ How to use the mobile app
+
+* Download the app here: https://github.com/arcanjolevi/robot_control_interface/releases/download/coronaKiller/mobileAppControl.apk
+* Configure the communication data: server ip and port.
+* When the server is running at the same network that the mobile device is connectd and the commnunication data is set correctly in the device, both will connect automatically.
 
 ### ❯ How run the server
 
