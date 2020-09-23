@@ -31,6 +31,9 @@
 #### ❯ AgroBot/CoronaKiller official repository:
 https://github.com/CaioslppUO/Agrobot-2.0
 
+#### ❯ Mobile app repository:
+https://github.com/arcanjolevi/robot_control_app
+
 
 
 ## Use instructions
