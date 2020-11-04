@@ -64,6 +64,7 @@ npm start
 #### Get control data
 
 * With Python
+* The data comes inside the content encoded in bytes, having the need to use decode ("utf-8") to use the received data.
 ```
 import requests
 
